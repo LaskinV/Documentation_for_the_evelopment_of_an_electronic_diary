@@ -1,0 +1,1 @@
+# Documentation_for_the_evelopment_of_an_electronic_diary
